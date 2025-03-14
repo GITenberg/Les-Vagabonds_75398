@@ -1,0 +1,56 @@
+_repo: Les-Vagabonds_75398
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Strannik, Ivan
+    aliases:
+    - Странник, Иван
+    - Anichkova, Anna Mitrofanovna
+    - Avinova, Anna Mitrofanovna
+    birthdate: 1868
+    deathdate: 1935
+    gutenberg_agent_id: '57983'
+    url: http://www.gutenberg.org/2009/agents/57983
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anna_Anichkova
+    - https://fr.wikipedia.org/wiki/Anna_Mitrofanovna_Anichkova
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Peshkov, Alexey Maximiovich
+    - Горький, Максим
+    - Gorky, Maxim
+    - Gorky, Maxime
+    - Gorki, Maximo
+    - Gorki, Maxime
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: https://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+edition_note: Quatrième édition
+gutenberg_issued: '2025-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75398'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k662784
+pgterms:marc905: 20230326084034gorki
+pgterms:marc906: '1902'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMercure de France, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into French'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Malva -- Konovalov -- Tchelkache -- Mon compagnon.
+title: Les Vagabonds
+url: http://www.gutenberg.org/ebooks/75398
