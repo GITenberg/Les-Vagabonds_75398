@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Anna_Anichkova
     - https://fr.wikipedia.org/wiki/Anna_Mitrofanovna_Anichkova
+covers:
+- cover_type: archival
+  image_path: 75398-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: https://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75398#Les-Vagabonds
 edition_note: Quatrième édition
 gutenberg_issued: '2025-02-17'
 gutenberg_type: Text
